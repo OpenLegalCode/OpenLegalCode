@@ -41,4 +41,6 @@ Proposed Lead: MIT Media Lab (Dazza Greenwood)
 Added: An umbrella group, ideally, would support something along these lines in it's bylaws so that the public sector entities and any other partners that are agreed will remain at liberty to continue with the initial non-profit, or to switch to a different host entity, to create a new entity or otherwise make a change.  
  Example method of public sector entities agreeing to collaborate under a non-profit or quasi-public common umbrella: (https://github.com/OpenLegalCode/OpenLegalCode/blob/master/MediaLabLegalScienceTeam/Examples/AutonomousCouncil.md)  
 
+--
+Proposed to have David Moore added to working group.
 
