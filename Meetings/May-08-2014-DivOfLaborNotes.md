@@ -1,39 +1,40 @@
-Following was sent from Seamus to participants by email:
+Sent by Seamus/OpenGov Foundation to the participants:
 
----
+-----
 
-Thanks Dazza, and good morning all.
 
-i've been thinking on possible productive ways forward, and before of our Thursday call wanted to propose a working division of effort, labor and expertise.  There are short term and long term components of each of these "lanes," and there would be a lot of cross-over.  Think of them as proposed working groups, and please sound off if I'm missing anything, unclear or speaking out of school.
-
-I see these 5 as the things each city would need to accomplish individually on some level to get from the mostly analog legal information world of today to the amazing open law world we all want to be in as soon as possible.  It would give each of us an area to be the lead on, then help port the fantastic work each of us does in our "lane" to the other cities in this nascent network of legal data freedom fighters.  
-
-Without further ado...
 Policy 
+
 Short Term: Getting each city on the books, at some level and as soon as possible, stating that open laws, legislation and legislative process is the ultimate goal of the municipality.
 Long Term: Develop the more far-reaching policy, ordinances, rules and legal changes needed to fully change the internal information production processes and workflows to go completely open data from start to finish.
 Proposed Lead: San Francisco (Supervisor Mark Farrell/Jess Montejano)
+
 Presentation (How Open Laws/Legislation Are Served Up on the Web)
+
 Short Term: State Decoded, Open Congress, Madison...how open legal data is presented on the web, accessed by developers, used in daily municipal life, etc.
 Long Term: Growing these platforms to not only do more in each of our initial Free Law Cities, but growing them so that the adoption barriers get lower every dev cycle for places that are not as blessed as NYC/DC/SF/Boston/Chicago.
 Proposed Lead: Sunlight Foundation & The OpenGov Foundation
+
+
 Production (How Open Laws/Legislation Are Made in the Normal City Workflow)
+
 Short Term: Leading the development of an open source legal data production environment for normal humans, i.e. one that allows city attorneys and legislative staff to create laws, legislation and regulations as open data from the start.
 Long Term: Growing these tools so that they are adoptable by other cities, particularly those without developer/tech talent in position...(or figuring out a way to clone David Z for every city).
 Proposed Lead: Washington, DC (Dave Zvenyach)
+
+
 Parsing (How We Hack Closed Vendor Data into Delicious Open Laws/Legislation)
+
 Short Term: This is a short-term solution, but would entail leading the charge to create a Legistar parser, for example)
 Long Term: Releasing an open-source playbook and toolkit so that any city/state can create open legal data from the PDFs/txt/vendor files they currently have.  Adjusting vendor contracts when they are up for renewal to ensure open data pipelines are built into whatever is put into place for the next contractual cycle.
 Proposed Lead: NYC (Councilmember Ben Kallos)
+
+
 Partnerships (Connecting national government and civic tech leaders to grow this)
+
 Short Term: Gathering a group of leader committed to going open (already underway) and fostering the connections/conversations among them.
 Long Term: Gradually expanding the network.
 Proposed Lead: MIT Media Lab (Dazza Greenwood)
 
-- Seamus
 
-Seamus Kraft
-Executive Director
-760-659-0631
-OpenGovFoundation.org
-@SeamusKraft
+
