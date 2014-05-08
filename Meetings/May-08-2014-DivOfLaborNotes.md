@@ -1,3 +1,5 @@
+This is materials incorporated by reference by the agenda and meeting notes for the May 8th meeting at (https://github.com/OpenLegalCode/OpenLegalCode/blob/master/Meetings/May-08-2014.md)
+
 Sent by Seamus/OpenGov Foundation to the participants:
 
 -----
